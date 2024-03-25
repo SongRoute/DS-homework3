@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 // 함수 선언
 void print_one(int *ptr, int rows);
 

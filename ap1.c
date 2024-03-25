@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -59,4 +58,3 @@ int main()
     // 동적으로 할당한 메모리 해제
     free(plist[0]);
 }
-*/

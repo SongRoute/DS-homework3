@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 #define MAX_SIZE 100
 
@@ -78,4 +77,3 @@ float sum3(int n, float *list)
         tempsum += *(list + i);
     return tempsum;
 }
-*/
